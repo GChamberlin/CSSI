@@ -1,0 +1,42 @@
+h1{
+  font-family: 'Pacifico', cursive;
+  color: #6600CC;
+  text-align: center;
+}
+
+#gif_1{
+  orient margin-left: center;
+
+}
+#para_2{
+  background-color: white;
+  padding:3px;
+}
+#word_1{
+  color: #6600CC ;
+}
+
+body{
+  background-image: url(Background_Image.jpg);
+}
+
+#Greeting_1{
+  font-size: 100px;
+  }
+
+  p{
+    background-color: black;
+    padding: 5px;
+    margin:10px;
+    font-size: 25px;
+    color: #6600CC;
+    font-weight: bolder;
+  }
+
+  #word_2{
+    font-size: 30px;
+  }
+
+#gif_2{
+  margin: auto;
+}

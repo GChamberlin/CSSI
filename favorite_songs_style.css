@@ -1,0 +1,21 @@
+body{
+  font-family: arial;
+}
+
+h1, h2{
+  background-color: #CC99FF;
+  color: #CC0066;
+  font-family: 'Indie Flower', cursive;
+}
+
+.Title{
+  display: none;
+  font-weight: bolder;
+}
+
+ul{
+  border: 1px solid pink;
+  background-color: #FFC2FF;
+  padding:20px;
+  margin-left: 50px;
+}
